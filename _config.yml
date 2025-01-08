@@ -19,7 +19,7 @@ title: 诗歌舞街 # the main title
 tagline: 宇宙里有什么不是暂时 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  sycamore的个人博客
+  sycamore 的个人博客
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,7 +29,7 @@ github:
   username: sycamore-3999 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: https://x.com/sycamorerzhu_ # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,8 +38,8 @@ social:
   email: sycamore.mail@tuta.io # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://x.com/sycamorerzhu_ # change to your Twitter homepage
+    - https://github.com/sycamore-3999 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
